@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dkprasad-surati
 - 👀 I’m interested in ...Research & Devlopment 
 - 🌱 I’m currently learning ...PKE Related
-- 💞️ I’m looking to collaborate on ...Navjeevan Lab
+- 💞️ I’m looking to collaborate on ...Navjeevan Research Center 
 - 📫 How to reach me ...dkprasad.surati@gmail.com 
 
 <!---
